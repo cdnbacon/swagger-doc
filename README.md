@@ -17,6 +17,7 @@ swagger.configure(server, {
 	discoveryUrl: "/resources.json",
 	version:      "0.1",
 	basePath:     "https://api.product.com"
+  swaggerPath:  "/api-spec"
 });
 
 
